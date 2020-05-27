@@ -1,1 +1,1 @@
-web java -Dserver.port=$PORT $JAVA_OPTS -jar target/spring-config-server-2.3.0.RELEASE.jar com.example.springconfigclient.SpringConfigClientApplication
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/spring-config-client-2.3.0.RELEASE.jar com.example.springconfigclient.SpringConfigClientApplication
