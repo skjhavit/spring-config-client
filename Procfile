@@ -1,0 +1,1 @@
+web java -Dserver.port=8090 $JAVA_OPTS -jar target/spring-config-server-2.3.0.RELEASE.jar com.example.springconfigclient.SpringConfigClientApplication
