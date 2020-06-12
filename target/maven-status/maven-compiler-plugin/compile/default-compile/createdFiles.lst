@@ -1,0 +1,4 @@
+com/example/bean/UserBean.class
+com/example/springconfigclient/UserConfiguration.class
+com/example/springconfigclient/MessageRestController.class
+com/example/springconfigclient/SpringConfigClientApplication.class

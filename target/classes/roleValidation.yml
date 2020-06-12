@@ -1,0 +1,9 @@
+userlistmanagementaccess:
+  DIP: ['DXP_DIP_Role_Commercial_Origination_Manager', 'DXP_DIP_Role_Commercial_Field_Representative', 'DXP_DIP_Role_Commercial_Trader', 'DXP_DIP_Role_Supply_Chain_Customer_Service', 'DXP_DIP_Role_Supply_Chain_Settlement_Team', 'DXP_DIP_Role_Finance', 'DXP_DIP_Role_IT_Admin', 'DXP_DIP_Role_Sales_Assistant']
+  GPS: ['DXP_GPS_Role_CargillAdmin','DXP_GPS_Role_SiteAdmin']
+  CAN: ['DXP_CAN_AccGrp_User_Management']
+  DSC_CN: ['DXP_DSC_CN_InternalUsers']
+  FIBI: ['DXP_Food_AccGrp_UserRequester', 'DXP_Food_AccGrp_UserAdmin']
+  DMS: ['DXP_DMS_Role_CargillAdmin']
+  CargillAg: ['DXP_CargillAg_InternalUsers']
+  Tacos: ['DXP_Tacos_AccGrp_UserManagement']
